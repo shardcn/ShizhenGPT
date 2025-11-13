@@ -8,9 +8,12 @@
 
 <div align="center">
 <h4>
-  📃 <a href="https://arxiv.org/abs/2508.14706" target="_blank">Paper</a> ｜ 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Pretrain-Data-ShizhenGPT" target="_blank">TCM Pre-training Dataset</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Instruction-Tuning-ShizhenGPT" target="_blank">TCM Instruction Data</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Text-Exams" target="_blank">TCM Text Benchmark</a>
+  📃 <a href="https://arxiv.org/abs/2508.14706" target="_blank">Paper</a> ｜ 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Pretrain-Data-ShizhenGPT" target="_blank">TCM Pre-training Dataset</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Instruction-Tuning-ShizhenGPT" target="_blank">TCM Instruction Data</a>
 </h4>
-  <h4>
+<h4>
+  📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Text-Exams" target="_blank">TCM Text Benchmark</a> | 📚 <a href="https://huggingface.co/datasets/FreedomIntelligence/TCM-Vision-Benchmark" target="_blank">TCM Vision Benchmark</a>
+</h4>
+<h4>
   🤗 <a href="https://huggingface.co/FreedomIntelligence/ShizhenGPT-7B-Omni" target="_blank">ShizhenGPT-7B</a> | 🤗 <a href="https://huggingface.co/FreedomIntelligence/ShizhenGPT-32B-VL" target="_blank">ShizhenGPT-32B</a>
 </h4>
 </div>
@@ -222,6 +225,22 @@ The text benchmark is composed of five sections, each compiled from different na
 | 2024 TCM Assistant Physician (2024年中医助理职业医师资格考试) | 138|
 | 2024 TCM Graduate Entrance Examination (2024年中医综合考研真题) | 147 |
 | 2025 TCM Graduate Entrance Examination (2025年中医综合考研真题) | 139 |
+</details>
+
+<details>
+<summary><h4>Vision Benchmark</h4></summary>
+The benchmark is composed of 7 sections, each compiled from different authoritative TCM illustrated books.
+
+|                                      | Samples                       |
+| ------------------------------------ | ------------------------------ |
+| TCM Patent | 1119 |
+| TCM Material | 1020 |
+| TCM Herb | 1100 |
+| Tongue | 768 |
+| Palm | 640 |
+| Holism | 1011 |
+| Tuina | 831 |
+| Eye | 715 |
 </details>
 
 
